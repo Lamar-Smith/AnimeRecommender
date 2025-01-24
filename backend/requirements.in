@@ -1,3 +1,7 @@
 FastApi
 Uvicorn
 Requests
+Pydantic_Settings
+Spacy
+Scikit-learn
+en_core_web_lg
