@@ -1,0 +1,10 @@
+# ignore .env
+.env
+#ignore virtual environment
+venv/
+
+#ignore pycache
+__pycache__
+
+#vs code
+.vscode/
